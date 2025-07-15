@@ -1,0 +1,371 @@
+ .acc
+ body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }.acc
+
+    .main-section {
+      display: flex;
+      height: ;
+    }.acc
+
+    .left-text {
+      background-color: #0066ff;
+      color: white;
+      flex: 1;
+      padding: 40px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }.acc
+
+    .left-text h1 {
+      font-size: 2.5em;
+      margin-bottom: 20px;
+    }.acc
+
+    .left-text h2 {
+      font-size: 1.2em;
+      line-height: 1.5;
+      color: white;
+      margin-bottom: 20px;
+    }.acc
+
+    .cta-button {
+      background-color: #e74c3c;
+      color: white;
+      border: none;
+      padding: 15px 25px;
+      font-size: 1em;
+      cursor: pointer;
+      max-width: fit-content;
+    }.acc
+
+    .right-image {
+      flex: 1;
+    }.acc
+
+    .right-image img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }.acc
+
+    nav ul {
+      text-align: center;
+      background-color: rgb(87, 87, 90);
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content:center;
+    }.acc
+    
+    nav li {
+      padding: 15px;     }.acc
+
+    nav img {
+      height: 50px;
+      margin: 10px;
+    }
+    .qui 
+    .container {
+      display: flex;
+      justify-content: space-between;
+      gap: 40px;
+      max-width: 1200px;
+      margin: 0 auto;
+    } .qui 
+
+    .colonne {
+      flex: 1;
+      text-align: left;
+      line-height: 1.6;
+    } .qui 
+
+    .colonne strong {
+      font-weight: bold;
+    } .qui 
+ 
+
+
+h1{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+;
+font-weight: bold;
+padding: 20px;
+margin: 0 auto ;
+
+} .qui 
+p{color: rgb(125, 130, 130);
+padding: 20px; 
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif  ;
+font-weight: bold;
+margin: 0 auto;
+} .qui 
+
+
+h2{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding: 20px;
+font-weight: bold;
+margin: 0 auto ;
+} .qui 
+{font-family : 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-decoration: underline;
+font-weight: bold;
+} .qui 
+ul{
+background-color: rgb(87, 87, 90);
+display: inline-block;
+
+}  .qui 
+ul{
+
+      padding: 0;
+      margin: 0;
+      list-style: none;
+    } .qui 
+
+    li {
+      background-color: rgb(87, 87, 90);
+    
+      padding: 15px;
+      width: 100vw; /* prend toute la largeur de la fenêtre */
+    } .qui 
+.image-wrapper{background-color: blue;
+padding: 10px;
+width: 50vw;
+
+
+} .qui 
+iframe{
+padding: 20px;
+margin: 0 auto;
+
+} .qui 
+.left-text {
+      background-color: #0066ff;
+      color: white;
+      flex: 1;
+      padding: 40px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    } .qui 
+
+    .left-text h1 {
+      font-size: 2.5em;
+      margin-bottom: 20px;
+    } .qui 
+
+    .left-text h2 {
+      font-size: 1.2em;
+      line-height: 1.5;
+      color: white;
+      margin-bottom: 20px;
+    } .qui 
+
+    nav ul {
+      text-align: center;
+      background-color: rgb(87, 87, 90);
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content:center;
+    }
+ .qui 
+    nav li {
+      padding: 15px;     } .qui 
+
+    nav img {
+      height: 50px;
+      margin: 10px;
+    } .qui 
+    
+.main-section{display: flex;
+
+} .qui 
+.container {
+      display: flex;
+      justify-content: space-between;
+      gap: 40px;
+      max-width: 1200px;
+      margin: 0 auto;
+    } .qui 
+
+    .colonne {
+      flex: 1;
+      text-align: left;
+      line-height: 1.6;
+    } .qui 
+
+    .colonne strong {
+      font-weight: bold;
+    } .qui 
+ 
+
+
+h1{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+;
+font-weight: bold;
+padding: 20px;
+margin: 0 auto ;
+
+} .qui 
+p{color: rgb(125, 130, 130);
+padding: 20px; 
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif  ;
+font-weight: bold;
+margin: 0 auto;
+} .qui 
+
+
+h2{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding: 20px;
+font-weight: bold;
+margin: 0 auto ;
+} .qui 
+{font-family : 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-decoration: underline;
+font-weight: bold;
+}
+ul{
+background-color: rgb(87, 87, 90);
+display: inline-block;
+
+}  .qui 
+ul{
+
+      padding: 0;
+      margin: 0;
+      list-style: none;
+    } .qui 
+
+    li {
+      background-color: rgb(87, 87, 90);
+    
+      padding: 15px;
+      width: 100vw; /* prend toute la largeur de la fenêtre */
+    } .qui 
+.image-wrapper{background-color: blue;
+padding: 10px;
+width: 50vw;
+
+
+} .qui 
+iframe{
+padding: 20px;
+margin: 0 auto;
+
+} .qui 
+.left-text {
+      background-color: #0066ff;
+      color: white;
+      flex: 1;
+      padding: 40px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    } .qui 
+
+    .left-text h1 {
+      font-size: 2.5em;
+      margin-bottom: 20px;
+    } .qui 
+
+    .left-text h2 {
+      font-size: 1.2em;
+      line-height: 1.5;
+      color: white;
+      margin-bottom: 20px;
+    } .qui 
+
+    nav ul {
+      text-align: center;
+      background-color: rgb(87, 87, 90);
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content:center;
+    } .qui 
+
+    nav li {
+      padding: 15px;     } .qui 
+
+    nav img {
+      height: 50px;
+      margin: 10px;
+    } .qui 
+.main-section{display: flex;
+
+}  .qui 
+.full-width-band {
+      background-color: white;
+      text-align: left; 
+      padding: 10px 0;    
+    }
+ .qui 
+    .full-width-band img {
+      max-width: 100%;
+      height: auto;
+    } .ia
+     button{background-color: aliceblue; 
+color: rgb(12, 8, 249);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: larger;
+padding: 15px;
+margin: 35px;
+;
+}.ia
+h1{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+margin: 25px;
+
+
+}.ia
+h2{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding: 15px;
+margin: 35px;
+
+
+
+}.ia
+h3{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding: 15px;
+margin: 35px;
+
+
+
+}.ia
+p{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding: 15px;
+margin: 35px;
+text-align: left;
+columns: right ;
+
+
+
+}.ia
+
+    nav ul {
+      text-align: center;
+      background-color: rgb(87, 87, 90);
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content:center;
+    }.ia
+
+    nav li {
+      padding: 15px;     }.ia
+
+    nav img {
+      height: 50px;
+      margin: 10px;
+    }.ia
